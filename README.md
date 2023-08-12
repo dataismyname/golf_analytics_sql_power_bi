@@ -18,4 +18,6 @@ The goal is to try to find out the chances of a player making a successful appea
 - Playing skills of the players who have been in the top 10 the most times.
 - And some others...
 
-Online version of Power BI dashboard: https://app.powerbi.com/groups/me/reports/e54f2bfb-c803-4df2-bc1e-a175e0e4ab2d?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare
+Online version of Power BI dashboard: 
+https://app.powerbi.com/links/RLaRSbuzcQ?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare!![image](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/8af26caa-b6d7-4317-924e-9566d419cc36)
+
