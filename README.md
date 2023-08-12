@@ -19,5 +19,6 @@ The goal is to try to find out the chances of a player making a successful appea
 - And some others...
 
 Online version of Power BI dashboard: 
-https://app.powerbi.com/links/RLaRSbuzcQ?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare!![image](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/8af26caa-b6d7-4317-924e-9566d419cc36)
+![dashboard](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/61d9886d-7611-466f-a7d1-a130e252fb07)
+https://app.powerbi.com/links/RLaRSbuzcQ?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare
 
