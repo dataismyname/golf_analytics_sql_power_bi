@@ -18,12 +18,17 @@ The goal is to try to find out the chances of a player making a successful appea
 - Playing skills of the players who have been in the top 10 the most times.
 - And some others...
 
+![queries](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/6b043a3b-5853-4cd4-bfe2-fb9542a8088b)
+<br>
+
 To achieve the desired dashboard in Power BI, several tasks were necessary, such as:
 - Preprocessing the data.
 - Transforming the data into multiple tables.
 - Managing the relationships among the tables, which made it possible to achieve better performance for the visualizations.
 - Making it easy to make comparisons between the available fields.
-Feel free to try out your own version using the online Power BI dashboard!
+Feel free to try out your own version using the online Power BI dashboard!<br>
 https://app.powerbi.com/links/RLaRSbuzcQ?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare
+<br><br>
 ![dashboard](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/61d9886d-7611-466f-a7d1-a130e252fb07)
+
 
