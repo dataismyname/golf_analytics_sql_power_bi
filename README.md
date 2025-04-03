@@ -1,34 +1,56 @@
-# golf_analytics_sql_power_bi
+# ⛳ Golf Analytics with SQL & Power BI
 
-This project is based on discovering insights into one of my passions in recent years... GOLF!
+This project combines two of my passions: **data analysis** and **golf**. Using a historical dataset of professional golf tournaments, the goal was to uncover performance insights and trends among top players over time.
 
-The main purpose was to analyze the performance that professional golf players have had over the years in different tournaments. The dataset used is provided.
+## 📊 Objective
 
-Some of the tasks performed include:
-- Preparing and importing the data.
-- Exploring the details of the dataset, such as the dimensions, field formats, and possible values taken by each field.
-- Transformation of the values to obtain interesting information.
+To analyze and visualize players' performance across tournaments using **SQL for data transformation** and **Power BI for dashboard creation**, answering questions such as:
 
-The goal is to try to find out the chances of a player making a successful appearance and maybe winning a specific event. It is possible to answer relevant questions such as:
-- Players with the most wins and their oldest and latest wins.
-- Tournaments which have been won the most times by the same player.
-- Players who have been in the top 10 most times.
-- Tournaments with the biggest purse.
-- Frequency of the players who have made the cut the most times.
-- Playing skills of the players who have been in the top 10 the most times.
-- And some others...
+- Which players have the most tournament wins, and when did they happen?
+- Which tournaments are dominated by specific players?
+- Who are the most consistent players in the Top 10?
+- What are the tournaments with the largest purses?
+- Which players make the cut most frequently?
+- What are the playing attributes of top-ranked players?
 
-![queries](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/6b043a3b-5853-4cd4-bfe2-fb9542a8088b)
+## 🧩 Process Overview
+
+1. **Data Preparation & Import**
+   - Explored dataset structure, field formats, and data consistency
+   - Cleaned and prepared raw data for analysis
+
+2. **Data Transformation (SQL)**
+   - Created multiple relational tables
+   - Extracted relevant metrics and features
+   - Wrote optimized queries to derive insights
+
+3. **Power BI Dashboard Development**
+   - Designed relationships for efficient data modeling
+   - Created dynamic visualizations and slicers
+   - Enabled intuitive comparisons across tournaments, players, and seasons
+
 <br>
 
-To achieve the desired dashboard in Power BI, several tasks were necessary, such as:
-- Preprocessing the data.
-- Transforming the data into multiple tables.
-- Managing the relationships among the tables, which made it possible to achieve better performance for the visualizations.
-- Making it easy to make comparisons between the available fields.
-Feel free to try out your own version using the online Power BI dashboard!<br>
-https://app.powerbi.com/links/RLaRSbuzcQ?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare
-<br><br>
+### 📌 Example SQL Queries
+![queries](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/6b043a3b-5853-4cd4-bfe2-fb9542a8088b)
+
+### 📈 Power BI Dashboard
+Explore the interactive dashboard here:  
+🔗 [Open Power BI Report](https://app.powerbi.com/links/RLaRSbuzcQ?ctid=4b037f04-93bb-4316-ab14-6d8429c39a76&pbi_source=linkShare)
+
 ![dashboard](https://github.com/dataismyname/golf_analytics_sql_power_bi/assets/105817408/61d9886d-7611-466f-a7d1-a130e252fb07)
 
+---
+
+## 🛠️ Tech Stack
+
+- **SQL** (data cleaning & querying)
+- **Power BI** (data modeling, relationships, visuals)
+- **Excel/CSV** (initial data source)
+
+## 💬 Final Thoughts
+
+This project not only allowed me to sharpen my skills in SQL and Power BI but also gave me the chance to explore performance data in a sport I’m passionate about. It showcases how data can reveal stories behind the numbers—even in golf.
+
+Feel free to clone the repo, explore the queries, or interact with the dashboard!
 
